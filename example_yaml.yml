@@ -1,0 +1,3 @@
+asd:
+- foo<%= ENV['blah_blah'] %>
+- bar
